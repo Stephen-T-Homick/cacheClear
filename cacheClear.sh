@@ -21,4 +21,4 @@ elif [ $memfree -gt 2000000 ] ; then
 fi #if [ $memfree -gt 2000000 ] ; then
 }
 
-clear()
+clear
